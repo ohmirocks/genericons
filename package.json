@@ -1,0 +1,12 @@
+{
+  "name": "fanatics-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://jaxf-github.fanatics.corp/3c-web-ui/fanatics-icons.git"
+  },
+  "author": "okannusami",
+  "license": "ISC"
+}

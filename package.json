@@ -1,7 +1,8 @@
 {
   "name": "genericons",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node Module for genericons",
+  "keywords": "icons, genericons",
   "main": "genericons/genericons.css",
   "repository": {
     "type": "git",

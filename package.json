@@ -1,11 +1,11 @@
 {
-  "name": "fanatics-icons",
+  "name": "genericons",
   "version": "1.0.0",
   "description": "",
-  "main": "index.scss",
+  "main": "genericons/genericons.css",
   "repository": {
     "type": "git",
-    "url": "https://jaxf-github.fanatics.corp/3c-web-ui/fanatics-icons.git"
+    "url": "https://github.com/ohmirocks/genericons"
   },
   "author": "okannusami",
   "license": "ISC"
